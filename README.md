@@ -1,31 +1,68 @@
-# Hi there, I'm [あなたの名前] 👋
-Webエンジニアとして活動しています。ReactとGoを使ったバックエンド開発が得意です。
+# Hi there, I'm Sakaguchi Kou (坂口 航) 👋
+
+**AI Engineer / Researcher**
+
+「AI技術を社会問題の解決に活用する」をミッションに、マルチモーダルLLMの実践的活用や生成AIアプリケーションの開発を行っています。特にAIエージェント（Multi-Agent Systems）の構築と社会実装に関心があります。
+
+## 🏆 Awards & Achievements
+
+これまでのハッカソンやコンテストでの主な受賞歴と、関連するメディア掲載情報です。
+
+| Date | Event | Result | Project / Media |
+| :--- | :--- | :--- | :--- |
+| 2025.11 | **全日本AIハッカソン 2025** | **🏆 優勝** | **生成AIを活用したプロダクト開発**<br>（決勝：東京・ベルサール秋葉原）<br>🔗 [窓の杜 掲載記事](https://forest.watch.impress.co.jp/docs/special/2067831.html)<br>🔗 [大会公式サイト](https://www.aifestival.jp/hackathon2025) |
+| 2024.05 | **大阪24時間AIハッカソン 2024** | **🏆 優勝** |ユーザーの夢を具体化するAIエージェント。「ビジネス化に近い」と高評価を獲得。<br>🔗 [公式結果レポート](https://www.aifestival.jp/news/%E3%80%8C%E5%A4%A7%E9%98%AA24%E6%99%82%E9%96%93ai%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3-2024%E3%80%8D%E7%B5%90%E6%9E%9C%E5%A0%B1%E5%91%8A) |
 
 ## 🛠 Tech Stack
-| Category | Technologies |
-| --- | --- |
-| **Frontend** | React, TypeScript, Next.js, Tailwind CSS |
-| **Backend** | Go (Gin), Python (FastAPI), Node.js |
-| **Database** | PostgreSQL, Redis, Firestore |
-| **Infrastructure** | AWS (ECS, Lambda), Docker, Terraform |
 
-## 🚀 Featured Projects
-### 1. [アプリ/サービス名](URL)
-**概要:** タスク管理を効率化するSPAアプリケーション
-* **役割:** フルスタック開発（設計〜デプロイ）
-* **使用技術:** Next.js, Firebase, Vercel
-* **工夫点:** リアルタイム更新の実装においてFirestoreのスナップショットを活用し、UXを向上させました。
+**Languages & Frameworks**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-### 2. [アプリ/サービス名](URL)
-**概要:** 社内向け在庫管理システム
-* **役割:** バックエンドAPI設計
-* **使用技術:** Go, Docker, AWS EC2
-* **成果:** 既存システムと比較してレスポンス速度を200%向上させました。
+**AI & Cloud**
+![OpenAI API](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![AutoGen](https://img.shields.io/badge/-AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=【あなたのID】&show_icons=true&theme=radical)
+## 🗣 Speaking & Slide Decks
 
-## 📫 Contact
-* **Blog:** [リンク]
-* **X (Twitter):** [@ユーザー名](リンク)
-* **Email:** email@example.com
+技術イベントでの登壇や研究発表の資料です。
+
+* **[Maker Faire Kyoto 2024](https://makezine.jp/event/makers-mfk2024/m0102/)** (2024.04)
+    * ロボット・AI技術を用いた自動運転デモの展示
+* **AIミーティング** (2024.06)
+    * 「AIハッカソン体験記」として、短期間開発のノウハウを共有
+* **卒業研究発表** (2024.12)
+    * [マルチモーダルLLM 実践的活用と課題](https://speakerdeck.com/sakaguchikou/marutimodarullm-shi-jian-de-huo-yong-toke-ti) (Speaker Deck)
+    * 映像監視とコールセンター業務におけるGemini 1.5 Proの精度検証
+
+## 🎓 Certifications & Education
+
+* **東京大学 大規模言語モデル集中講義 (LLM講座2024)** 修了 (2024)
+* **東京大学 AI経営講座 (AI Business Insights 2025)** 修了 (2025)
+
+## 📝 Latest Articles (Zenn & note)
+
+技術検証やハッカソンの振り返りを執筆しています。
+
+* [新卒エンジニアがフルスタック開発に挑戦した話（FastAPI×Vue3×PostgreSQL）](https://zenn.dev/secondselection/articles/app_create_test)
+* [AIエージェントのテスト・評価方法を考えてみた (AutoGen)](https://zenn.dev/secondselection/articles/aiagent_eval)
+* [【入門】OpenAI Codex CLIでリファクタリングしてみた](https://zenn.dev/secondselection/articles/openai_codex)
+* [【優勝】全日本AIハッカソン2025 振り返り](https://note.com/kou519/)
+
+---
+
+<div align="center">
+  <a href="https://x.com/krioumi">
+    <img src="https://img.shields.io/badge/X_(Twitter)-@krioumi-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://zenn.dev/s_kou">
+    <img src="https://img.shields.io/badge/Zenn-s__kou-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn"/>
+  </a>
+  <a href="https://note.com/kou519/">
+    <img src="https://img.shields.io/badge/note-kou519-41C9B4?style=for-the-badge&logo=note&logoColor=white" alt="note"/>
+  </a>
+</div>
